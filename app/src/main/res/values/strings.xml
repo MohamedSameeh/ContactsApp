@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="enter_contact_number">Enter contact number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_contact_name">Enter contact name</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="call">call</string>
+    <string name="change_language">Change Language</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="please_add_a_valid_number">Please add a valid Number</string>
+</resources>
